@@ -1,0 +1,160 @@
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\Others\Demos\Nithin\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Others\Demos\Nithin\agGridDemo\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\nnerella\OneDrive - Infor\Desktop\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\Gamer\Downloads\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Freelancing\WriteC#Test\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.exe
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Dapper.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\nithi\Downloads\CustomerAPI\CustomerAPI\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
